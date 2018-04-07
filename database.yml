@@ -1,0 +1,11 @@
+development:
+  dialect: "sqlite3"
+  database: C:\Users\Daniel\Projekte\go\src\github.com\danto9\moneybag_development.sqlite
+
+test:
+  dialect: "sqlite3"
+  database: C:\Users\Daniel\Projekte\go\src\github.com\danto9\moneybag_test.sqlite
+
+production:
+  dialect: "sqlite3"
+  database: C:\Users\Daniel\Projekte\go\src\github.com\danto9\moneybag_production.sqlite
